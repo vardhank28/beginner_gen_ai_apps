@@ -1,1 +1,1 @@
-# beginner_gen_ai_projects
+# diet_tracker_app
